@@ -1,4 +1,4 @@
-# Image-Segmentation-Tools
+# Image Segmentation Tools
 
 This repository aims at providing helpful scripts for image segmentation. In particular, for what concerns image annotation and dataset preparation.
 
